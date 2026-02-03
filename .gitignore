@@ -1,0 +1,47 @@
+# --- Data Files ---
+*.csv
+*.json
+*.xlsx
+*.sql
+*.sqlite
+*.zip
+*.gz
+*.pkl
+*.csv
+*.txt
+*.h5
+*.png
+# --- Python / Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Results ---
+*.log
+results/
+plots/*.png
+plots/*.pdf
