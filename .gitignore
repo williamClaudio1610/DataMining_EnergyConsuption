@@ -11,6 +11,7 @@
 *.txt
 *.h5
 *.png
+
 # --- Python / Environment ---
 __pycache__/
 *.py[cod]
